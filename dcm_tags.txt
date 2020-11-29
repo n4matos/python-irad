@@ -1,0 +1,364 @@
+(0008, 0008) Image Type                          CS: ['DERIVED', 'PRIMARY', 'MPR']
+(0008, 0016) SOP Class UID                       UI: CT Image Storage
+(0008, 0018) SOP Instance UID                    UI: 1.2.392.200036.9116.2.6.1.48.1221389821.1582598412.915377
+(0008, 0020) Study Date                          DA: '20200225'
+(0008, 0021) Series Date                         DA: '20200225'
+(0008, 0022) Acquisition Date                    DA: '20200225'
+(0008, 0023) Content Date                        DA: '20200225'
+(0008, 0030) Study Time                          TM: '113219.000'
+(0008, 0031) Series Time                         TM: '114012.281'
+(0008, 0032) Acquisition Time                    TM: '113353.250'
+(0008, 0033) Content Time                        TM: '114012.265'
+(0008, 0050) Accession Number                    SH: '1912981'
+(0008, 0060) Modality                            CS: 'CT'
+(0008, 0070) Manufacturer                        LO: 'TOSHIBA'
+(0008, 0080) Institution Name                    LO: 'HOSPITAL SAO LUCAS'
+(0008, 0090) Referring Physician's Name          PN: 'FABIOLA FIGUEIREDO DE MEDEIROS'
+(0008, 1010) Station Name                        SH: 'ID_STATION'
+(0008, 103e) Series Description                  LO: ' Body 5.0 AX MED.4'
+(0008, 1040) Institutional Department Name       LO: 'ID_DEPARTMENT'
+(0008, 1050) Performing Physician's Name         PN: ''
+(0008, 1090) Manufacturer's Model Name           LO: 'Activion16'
+(0008, 2111) Derivation Description              ST: 'Lossy compression with JPEG extended sequential 12 bit, IJG quality factor 90, compression ratio 7.8883'
+(0008, 9215)  Derivation Code Sequence   1 item(s) ----
+   (0008, 0100) Code Value                          SH: '113040'
+   (0008, 0102) Coding Scheme Designator            SH: 'DCM'
+   (0008, 0104) Code Meaning                        LO: 'Lossy Compression'
+   ---------
+(0010, 0010) Patient's Name                      PN: 'JAIME CHAGAS LEITE'
+(0010, 0020) Patient ID                          LO: '580483'
+(0010, 0030) Patient's Birth Date                DA: '19420220'
+(0010, 0040) Patient's Sex                       CS: 'M'
+(0010, 1010) Patient's Age                       AS: '078Y'
+(0018, 0015) Body Part Examined                  CS: ''
+(0018, 0022) Scan Options                        CS: 'HELICAL_CT'
+(0018, 0050) Slice Thickness                     DS: "5.0"
+(0018, 0060) KVP                                 DS: "120"
+(0018, 0090) Data Collection Diameter            DS: "500.00"
+(0018, 1000) Device Serial Number                LO: '1CC09Z2592'
+(0018, 1020) Software Version(s)                 LO: 'V3.38ER005'
+(0018, 1030) Protocol Name                       LO: 'TORAX OBESOS'
+(0018, 1100) Reconstruction Diameter             DS: "337.89"
+(0018, 1120) Gantry/Detector Tilt                DS: "+0.0"
+(0018, 1130) Table Height                        DS: "+66.00"
+(0018, 1140) Rotation Direction                  CS: 'CW'
+(0018, 1150) Exposure Time                       IS: "1000"
+(0018, 1151) X-Ray Tube Current                  IS: "150"
+(0018, 1152) Exposure                            IS: "150"
+(0018, 1170) Generator Power                     IS: "18"
+(0018, 1210) Convolution Kernel                  SH: 'FC03'
+(0018, 5100) Patient Position                    CS: 'FFS'
+(0018, 9345) CTDIvol                             FD: 21.2
+(0020, 000d) Study Instance UID                  UI: 1.2.392.200036.9116.2.6.1.48.1221389821.1582597937.159222
+(0020, 000e) Series Instance UID                 UI: 1.2.392.200036.9116.2.6.1.48.1221389821.1582598412.876515
+(0020, 0010) Study ID                            SH: '31765'
+(0020, 0011) Series Number                       IS: "5"
+(0020, 0012) Acquisition Number                  IS: "2"
+(0020, 0013) Instance Number                     IS: "1"
+(0020, 0020) Patient Orientation                 CS: ['L', 'P']
+(0020, 0032) Image Position (Patient)            DS: ['-161.62393', '-160.97246', '1806.08435']
+(0020, 0037) Image Orientation (Patient)         DS: ['0.99892', '-0.04647', '0.00000', '0.04647', '0.99892', '0.00000']
+(0020, 0052) Frame of Reference UID              UI: 1.2.392.200036.9116.2.6.1.48.1221389821.1582597980.297574
+(0020, 0060) Laterality                          CS: ''
+(0020, 1040) Position Reference Indicator        LO: ''
+(0020, 1041) Slice Location                      DS: "149.384"
+(0020, 4000) Image Comments                      LT: 'AX MED.1'
+(0028, 0002) Samples per Pixel                   US: 1
+(0028, 0004) Photometric Interpretation          CS: 'MONOCHROME2'
+(0028, 0010) Rows                                US: 512
+(0028, 0011) Columns                             US: 512
+(0028, 0030) Pixel Spacing                       DS: ['0.660000', '0.660000']
+(0028, 0100) Bits Allocated                      US: 16
+(0028, 0101) Bits Stored                         US: 12
+(0028, 0102) High Bit                            US: 11
+(0028, 0103) Pixel Representation                US: 0
+(0028, 1050) Window Center                       DS: "40"
+(0028, 1051) Window Width                        DS: "400"
+(0028, 1052) Rescale Intercept                   DS: "-2048"
+(0028, 1053) Rescale Slope                       DS: "1"
+(0028, 1054) Rescale Type                        LO: 'HU'
+(0028, 2110) Lossy Image Compression             CS: '01'
+(0028, 2112) Lossy Image Compression Ratio       DS: "7.8883"
+(0028, 2114) Lossy Image Compression Method      CS: 'ISO_10918_1'
+(0040, 0002) Scheduled Procedure Step Start Date DA: '20200225'
+(0040, 0003) Scheduled Procedure Step Start Time TM: '113216.000'
+(0040, 0004) Scheduled Procedure Step End Date   DA: '20200225'
+(0040, 0005) Scheduled Procedure Step End Time   TM: '113716.000'
+(0040, 0244) Performed Procedure Step Start Date DA: '20200225'
+(0040, 0245) Performed Procedure Step Start Time TM: '113219.000'
+(0040, 0253) Performed Procedure Step ID         SH: '36876'
+(7005, 0010) Private Creator                     LO: 'TOSHIBA_MEC_CT3'
+(7005, 1008) [Detector Slice Thickness in mm]    UN: b'1.0 '
+(7005, 1009) [Number of Detector rows to Reconst UN: b'1111111111111111'
+(7005, 100a) [Table Speed in mm/rot]             UN: b'+15.00'
+(7005, 100b) [Filter]                            UN: b'3D-Q06'
+(7005, 100e) [File Type Remarks]                 UN: b'IMG '
+(7005, 100f) [Direction]                         UN: b'FF'
+(7005, 1011) [Series Comment]                    UN: b'AX MED'
+(7005, 1012) [Position]                          UN: b'SU'
+(7005, 1013) [Expert Plan No.]                   UN: b'\x01\x00'
+(7005, 1015) [Special Helical ACQ No.]           UN: b'\x01\x00'
+(7005, 1016) [Volume UID]                        UN: Array of 58 elements
+(7005, 1017) [Total Frame Count in the Volume]   UN: b'\x01\x00'
+(7005, 1018) [Frame No.]                         UN: b'\x01\x00'
+(7005, 1019) [Frame Sort Key]                    UN: b'\x0b\x11\x19\x00'
+(7005, 101a) [Frame Sort Order]                  UN: b'\x01\x00'
+(7005, 101b) [Convolution Kernel]                UN: b'FC03'
+(7005, 101d) [Reconstruction Number]             UN: b'\t\x00\x00\x00'
+(7005, 101e) [Raw Data Number]                   UN: b'\x0c\x00\x00\x00'
+(7005, 101f) [Volume Number]                     UN: Array of 20 elements
+(7005, 1020) [Local Series Number]               UN: b'\x06\x00\x00\x00'
+(7005, 1021) [Decrease in Artifact Filter]       UN: b'BOOST '
+(7005, 1022) [Reconstruction Interval]           UN: b'0.80'
+(7005, 1023) [Pitch Factor]                      UN: b'0.938 '
+(7005, 1030) [Main Modality in Study]            UN: b'CT'
+(7005, 1040) [DLP Dose Length Product]           UN: b'\xcd\xcc\xcc\xcc\xcc\xe0\x86@'
+(7fe0, 0010) Pixel Data                          OB: Array of 66484 elements
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+
+
+(0008, 0008) Image Type                          CS: ['DERIVED', 'PRIMARY']
+(0008, 0016) SOP Class UID                       UI: Computed Radiography Image Storage
+(0008, 0018) SOP Instance UID                    UI: 1.2.840.113564.54.10.85.121.218.4772.2020032806473849
+(0008, 0020) Study Date                          DA: '20200328'
+(0008, 0021) Series Date                         DA: '20200328'
+(0008, 0022) Acquisition Date                    DA: '20200328'
+(0008, 0023) Content Date                        DA: '20200328'
+(0008, 0030) Study Time                          TM: '064539'
+(0008, 0031) Series Time                         TM: '064738'
+(0008, 0032) Acquisition Time                    TM: '064738'
+(0008, 0033) Content Time                        TM: '064738'
+(0008, 0050) Accession Number                    SH: 'UPA13566976'
+(0008, 0060) Modality                            CS: 'CR'
+(0008, 0068) Presentation Intent Type            CS: 'FOR PRESENTATION'
+(0008, 0070) Manufacturer                        LO: 'Carestream Health'
+(0008, 0080) Institution Name                    LO: 'SES DF - UPA NB'
+(0008, 0090) Referring Physician's Name          PN: ''
+(0008, 1010) Station Name                        SH: 'ImageSuiteWSD'
+(0008, 1030) Study Description                   LO: 'RX - TORAX PA/PF - 2 INCIDENCIAS'
+(0008, 103e) Series Description                  LO: ''
+(0008, 1040) Institutional Department Name       LO: ''
+(0008, 1048) Physician(s) of Record              PN: ''
+(0008, 1050) Performing Physician's Name         PN: ''
+(0008, 1070) Operators' Name                     PN: 'admin'
+(0008, 1090) Manufacturer's Model Name           LO: 'Vita CR System'
+(0008, 2111) Derivation Description              ST: 'Lossy compression with JPEG baseline, IJG quality factor 90, compression ratio 39.504'
+(0008, 9215)  Derivation Code Sequence   1 item(s) ----
+   (0008, 0100) Code Value                          SH: '113040'
+   (0008, 0102) Coding Scheme Designator            SH: 'DCM'
+   (0008, 0104) Code Meaning                        LO: 'Lossy Compression'
+   ---------
+(0010, 0010) Patient's Name                      PN: 'HERCILIA CORREA COSTA^^'
+(0010, 0020) Patient ID                          LO: 'UPA1403282090'
+(0010, 0030) Patient's Birth Date                DA: '19580420'
+(0010, 0040) Patient's Sex                       CS: 'M'
+(0010, 1010) Patient's Age                       AS: ''
+(0010, 21b0) Additional Patient History          LT: ''
+(0010, 2203) Patient's Sex Neutered              CS: ''
+(0010, 4000) Patient Comments                    LT: ''
+(0011, 1044) Private tag data                    UT: Array of 1985 elements
+(0018, 0015) Body Part Examined                  CS: 'CHEST'
+(0018, 1004) Plate ID                            LO: '00263123554310010'
+(0018, 1164) Imager Pixel Spacing                DS: ['0.086215', '0.086215']
+(0018, 1403) Cassette Size                       CS: '14INX17IN'
+(0018, 1405) Relative X-Ray Exposure             IS: "1485"
+(0018, 5100) Patient Position                    CS: ''
+(0018, 5101) View Position                       CS: 'LATERAL'
+(0020, 000d) Study Instance UID                  UI: 1.2.40.0.13.3.192.168.1.236.5903637.13147260324077.1339088
+(0020, 000e) Series Instance UID                 UI: 1.2.840.113564.52.10.85.121.218.4772.2020032806473849
+(0020, 0010) Study ID                            SH: ''
+(0020, 0011) Series Number                       IS: "2"
+(0020, 0013) Instance Number                     IS: "2"
+(0020, 0060) Laterality                          CS: ''
+(0027, 8026) Private tag data                    UN: b'1.10.0.1'
+(0027, 8028) Private tag data                    UN: Array of 58 elements
+(0027, 8032) Private tag data                    UN: b'0,0,0,0 '
+(0027, 9046) Private tag data                    UN: b'00'
+(0027, 90ee) Private tag data                    UN: b''
+(0027, 99aa) Private tag data                    UN: Array of 22 elements
+(0028, 0002) Samples per Pixel                   US: 1
+(0028, 0004) Photometric Interpretation          CS: 'MONOCHROME2'
+(0028, 0010) Rows                                US: 4932
+(0028, 0011) Columns                             US: 4048
+(0028, 0030) Pixel Spacing                       DS: ['0.086215', '0.086215']
+(0028, 0034) Pixel Aspect Ratio                  IS: ['1', '1']
+(0028, 0100) Bits Allocated                      US: 8
+(0028, 0101) Bits Stored                         US: 8
+(0028, 0102) High Bit                            US: 7
+(0028, 0103) Pixel Representation                US: 0
+(0028, 1052) Rescale Intercept                   DS: "0"
+(0028, 1053) Rescale Slope                       DS: "1"
+(0028, 1054) Rescale Type                        LO: 'US'
+(0028, 2110) Lossy Image Compression             CS: '01'
+(0028, 2112) Lossy Image Compression Ratio       DS: "39.504"
+(0028, 2114) Lossy Image Compression Method      CS: 'ISO_10918_1'
+(0040, 0244) Performed Procedure Step Start Date DA: ''
+(0040, 0245) Performed Procedure Step Start Time TM: ''
+(7fe0, 0010) Pixel Data                          OB: Array of 758096 elements
+(0008, 0000) Group Length                        UL: 1000
+(0008, 0005) Specific Character Set              CS: 'ISO_IR 100'
+(0008, 0008) Image Type                          CS: ['ORIGINAL', 'PRIMARY', 'M', 'NORM', 'DIS2D']
+(0008, 0012) Instance Creation Date              DA: '20200225'
+(0008, 0013) Instance Creation Time              TM: '091629.090000'
+(0008, 0016) SOP Class UID                       UI: MR Image Storage
+(0008, 0018) SOP Instance UID                    UI: 1.3.12.2.1107.5.2.20.173007.202002250916294781291029
+(0008, 0020) Study Date                          DA: '20200225'
+(0008, 0021) Series Date                         DA: '20200225'
+(0008, 0022) Acquisition Date                    DA: '20200225'
+(0008, 0023) Content Date                        DA: '20200225'
+(0008, 0030) Study Time                          TM: '090851.491000'
+(0008, 0031) Series Time                         TM: '091610.921000'
+(0008, 0032) Acquisition Time                    TM: '091625.927500'
+(0008, 0033) Content Time                        TM: '091629.090000'
+(0008, 0050) Accession Number                    SH: '282035'
+(0008, 0060) Modality                            CS: 'MR'
+(0008, 0070) Manufacturer                        LO: 'SIEMENS'
+(0008, 0080) Institution Name                    LO: 'Anchieta'
+(0008, 0081) Institution Address                 ST: 'A Especial Setor C Norte 8/9/10,Brasilia,Distrito Federal,BR,ZIP'
+(0008, 0090) Referring Physician's Name          PN: 'CLAUDIO WHITAKER VERRI DE ARAUJO'
+(0008, 1010) Station Name                        SH: 'AWP173007'
+(0008, 1030) Study Description                   LO: 'Joelho^ESQUERDO'
+(0008, 103e) Series Description                  LO: 'localizer_sag+cor+tra'
+(0008, 1040) Institutional Department Name       LO: 'Department'
+(0008, 1050) Performing Physician's Name         PN: ''
+(0008, 1070) Operators' Name                     PN: 'MILLENE SANTOS'
+(0008, 1090) Manufacturer's Model Name           LO: 'Spectra'
+(0008, 1140)  Referenced Image Sequence   3 item(s) ----
+   (0008, 0000) Group Length                        UL: 96
+   (0008, 1150) Referenced SOP Class UID            UI: MR Image Storage
+   (0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.20.173007.2020022509154645546890978
+   ---------
+   (0008, 0000) Group Length                        UL: 96
+   (0008, 1150) Referenced SOP Class UID            UI: MR Image Storage
+   (0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.20.173007.2020022509155153245290990
+   ---------
+   (0008, 0000) Group Length                        UL: 96
+   (0008, 1150) Referenced SOP Class UID            UI: MR Image Storage
+   (0008, 1155) Referenced SOP Instance UID         UI: 1.3.12.2.1107.5.2.20.173007.2020022509154816922790982
+   ---------
+(0010, 0000) Group Length                        UL: 114
+(0010, 0010) Patient's Name                      PN: 'RICARDO CAMPOS BATISTA'
+(0010, 0020) Patient ID                          LO: '12632'
+(0010, 0030) Patient's Birth Date                DA: '19650502'
+(0010, 0040) Patient's Sex                       CS: 'M'
+(0010, 1010) Patient's Age                       AS: '054Y'
+(0010, 1020) Patient's Size                      DS: "1.7"
+(0010, 1030) Patient's Weight                    DS: "80"
+(0010, 21c0) Pregnancy Status                    US: 4
+(0018, 0000) Group Length                        UL: 404
+(0018, 0015) Body Part Examined                  CS: 'KNEE'
+(0018, 0020) Scanning Sequence                   CS: 'GR'
+(0018, 0021) Sequence Variant                    CS: ['SP', 'OSP']
+(0018, 0022) Scan Options                        CS: ''
+(0018, 0023) MR Acquisition Type                 CS: '2D'
+(0018, 0024) Sequence Name                       SH: '*fl2d1'
+(0018, 0025) Angio Flag                          CS: 'N'
+(0018, 0050) Slice Thickness                     DS: "6"
+(0018, 0080) Repetition Time                     DS: "8.3"
+(0018, 0081) Echo Time                           DS: "3.71"
+(0018, 0083) Number of Averages                  DS: "1"
+(0018, 0084) Imaging Frequency                   DS: "123.25754"
+(0018, 0085) Imaged Nucleus                      SH: '1H'
+(0018, 0086) Echo Number(s)                      IS: "1"
+(0018, 0087) Magnetic Field Strength             DS: "3"
+(0018, 0088) Spacing Between Slices              DS: "9"
+(0018, 0089) Number of Phase Encoding Steps      IS: "288"
+(0018, 0091) Echo Train Length                   IS: "1"
+(0018, 0093) Percent Sampling                    DS: "75"
+(0018, 0094) Percent Phase Field of View         DS: "100"
+(0018, 0095) Pixel Bandwidth                     DS: "320"
+(0018, 1000) Device Serial Number                LO: '173007'
+(0018, 1020) Software Version(s)                 LO: 'syngo MR E11'
+(0018, 1030) Protocol Name                       LO: 'localizer_sag+cor+tra'
+(0018, 1251) Transmit Coil Name                  SH: 'Body'
+(0018, 1310) Acquisition Matrix                  US: [256, 0, 0, 192]
+(0018, 1312) In-plane Phase Encoding Direction   CS: 'COL'
+(0018, 1314) Flip Angle                          DS: "20"
+(0018, 1315) Variable Flip Angle Flag            CS: 'N'
+(0018, 1316) SAR                                 DS: "0.003409920507"
+(0018, 1318) dB/dt                               DS: "0"
+(0018, 5100) Patient Position                    CS: 'FFS'
+(0019, 0000) Private Creator                     UN: b'\xdc\x00\x00\x00'
+(0019, 0010) Private tag data                    LO: 'SIEMENS MR HEADER'
+(0019, 1008) [CSA Image Header Type]             UN: b'IMAGE NUM 4 '
+(0019, 1009) [CSA Image Header Version ??]       UN: b'1.0 '
+(0019, 100b) [SliceMeasurementDuration]          UN: b'2382.5'
+(0019, 100f) [GradientMode]                      UN: b'Normal'
+(0019, 1011) [FlowCompensation]                  UN: b'No'
+(0019, 1012) [TablePositionOrigin]               UN: b'\x00\x00\x00\x00\x00\x00\x00\x00\xef\xf9\xff\xff'
+(0019, 1013) [ImaAbsTablePosition]               UN: b'\x00\x00\x00\x00\x00\x00\x00\x00\xef\xf9\xff\xff'
+(0019, 1014) [ImaRelTablePosition]               UN: b'0\\0\\0 '
+(0019, 1015) [SlicePosition_PCS]                 UN: Array of 24 elements
+(0019, 1016) [TimeAfterStart]                    UN: b'19.1225 '
+(0019, 1017) [SliceResolution]                   UN: b'1 '
+(0019, 1018) [RealDwellTime]                     UN: b'6100'
+(0020, 0000) Group Length                        UL: 436
+(0020, 000d) Study Instance UID                  UI: 1.2.40.0.13.3.192.168.1.236.5903637.9314726847635.353798
+(0020, 000e) Series Instance UID                 UI: 1.3.12.2.1107.5.2.20.173007.2020022509160526096290992.0.0.0
+(0020, 0010) Study ID                            SH: '353798'
+(0020, 0011) Series Number                       IS: "2"
+(0020, 0012) Acquisition Number                  IS: "1"
+(0020, 0013) Instance Number                     IS: "8"
+(0020, 0032) Image Position (Patient)            DS: ['-28.438942027592', '-218.97232440345', '-6.8544e-010']
+(0020, 0037) Image Orientation (Patient)         DS: ['0.97778324436866', '0.20961852740609', '4.896e-012', '-0.2096185274061', '0.97778324436866', '0']
+(0020, 0052) Frame of Reference UID              UI: 1.3.12.2.1107.5.2.20.173007.2.20200225091350056.0.0.0
+(0020, 0060) Laterality                          CS: 'L'
+(0020, 1040) Position Reference Indicator        LO: ''
+(0020, 1041) Slice Location                      DS: "-3.24591e-010"
+(0020, 4000) Image Comments                      LT: 'DIREITO'
+(0028, 0000) Group Length                        UL: 174
+(0028, 0002) Samples per Pixel                   US: 1
+(0028, 0004) Photometric Interpretation          CS: 'MONOCHROME2'
+(0028, 0010) Rows                                US: 512
+(0028, 0011) Columns                             US: 512
+(0028, 0030) Pixel Spacing                       DS: ['0.546875', '0.546875']
+(0028, 0100) Bits Allocated                      US: 16
+(0028, 0101) Bits Stored                         US: 12
+(0028, 0102) High Bit                            US: 11
+(0028, 0103) Pixel Representation                US: 0
+(0028, 0106) Smallest Image Pixel Value          US: 0
+(0028, 0107) Largest Image Pixel Value           US: 463
+(0028, 1050) Window Center                       DS: "188"
+(0028, 1051) Window Width                        DS: "435"
+(0028, 1055) Window Center & Width Explanation   LO: 'Algo1'
+(0029, 0000) Private Creator                     UN: b'>\xc4\x01\x00'
+(0029, 0010) Private tag data                    LO: 'SIEMENS CSA HEADER'
+(0029, 0011) Private tag data                    LO: 'SIEMENS MEDCOM HEADER2'
+(0029, 1008) [CSA Image Header Type]             UN: b'IMAGE NUM 4 '
+(0029, 1009) [CSA Image Header Version]          UN: b'20200225'
+(0029, 1010) [CSA Image Header Info]             UN: Array of 11044 elements
+(0029, 1018) [CSA Series Header Type]            UN: b'MR'
+(0029, 1019) [CSA Series Header Version]         UN: b'20200225'
+(0029, 1020) [CSA Series Header Info]            UN: Array of 104584 elements
+(0029, 1160) [Series Workflow Status]            UN: b'com '
+(0032, 0000) Group Length                        UL: 26
+(0032, 1060) Requested Procedure Description     LO: 'RM JOELHO ESQUERDO'
+(0040, 0000) Group Length                        UL: 168
+(0040, 0244) Performed Procedure Step Start Date DA: '20200225'
+(0040, 0245) Performed Procedure Step Start Time TM: '090851.606000'
+(0040, 0253) Performed Procedure Step ID         SH: '353798'
+(0040, 0254) Performed Procedure Step Descriptio LO: 'RM JOELHO ESQUERDO'
+(0040, 0275)  Request Attributes Sequence   1 item(s) ----
+   (0040, 0000) Group Length                        UL: 54
+   (0040, 0007) Scheduled Procedure Step Descriptio LO: 'RM JOELHO ESQUERDO'
+   (0040, 0009) Scheduled Procedure Step ID         SH: '353798'
+   (0040, 1001) Requested Procedure ID              SH: '353798'
+   ---------
+(0040, 0280) Comments on the Performed Procedure ST: ''
+(0051, 0000) Private Creator                     UN: b'\xe8\x00\x00\x00'
+(0051, 0010) Private tag data                    LO: 'SIEMENS MR HEADER'
+(0051, 1008) [CSA Image Header Type]             UN: b'IMAGE NUM 4 '
+(0051, 1009) [CSA Image Header Version ??]       UN: b'1.0 '
+(0051, 100a) [Unknown]                           UN: b'TA 02.38*9'
+(0051, 100b) [AcquisitionMatrixText]             UN: b'384*512s I'
+(0051, 100c) [Unknown]                           UN: b'FoV 280*280 '
+(0051, 100d) [Unknown]                           UN: b'SP  0.0 '
+(0051, 100e) [Unknown]                           UN: b'Tra '
+(0051, 100f) [CoilString]                        UN: b'E18 '
+(0051, 1012) [Unknown]                           UN: b'TP 0'
+(0051, 1013) [PositivePCSDirections]             UN: b'+LPH'
+(0051, 1015) [Unknown]                           UN: b'E '
+(0051, 1016) [Unknown]                           UN: b'M/NORM/DIS2D'
+(0051, 1017) [Unknown]                           UN: b'SL 6.0'
+(0051, 1019) [Unknown]                           UN: b'A1'
+(7fe0, 0010) Pixel Data                          OW: Array of 524288 elements
